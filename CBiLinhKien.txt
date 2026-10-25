@@ -1,0 +1,5 @@
+1 esp32 bản 38 gpio 
+1 dht11
+1 lcd 1602 i2c
+1 trở 1k 
+dây
